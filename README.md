@@ -15,9 +15,9 @@ It will help us to identify  :
 ==========================================================================================
 Key indicators and their meanings :
 - Loan growth vs recovery
-  Total Applications
-  Funded amount
-  Received amount
+  -Total Applications
+  -Funded amount
+  -Received amount
   IF the funded amount grows faster that the received amount then the future defaults risk increases.
 
 - Good vs Bad Loans
