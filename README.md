@@ -1,4 +1,4 @@
-BANK DON'T FAIL BECAUSE THEY GIVE LOANS. BANKS FAIL BECAUSE TEHY GIVE LOANS TO THE WROING CUSTOMERS.
+BANK DON'T FAIL BECAUSE THEY GIVE LOANS. BANKS FAIL BECAUSE THEY GIVE LOANS TO THE WROING CUSTOMERS.
 
 This dashboard helps the bank : Monitor portfolio health==> Identify risky segments ==> Investigate individual loans 
 
@@ -12,7 +12,7 @@ It will help us to identify  :
 - We can figure out the credit quality.
 - It will help us to identify if we are approving too many risky borrowers.
 
-==========================================================================================
+===============================================================
 Key indicators and their meanings :
 - Loan growth vs recovery
   -Total Applications
@@ -41,7 +41,7 @@ Key indicators and their meanings :
  Late ==> Early warning
  Charged off ==> Actual loss
  It indicates the operational monitoring of repayment lifecycle. This helps collection team act before default occurs.
-========================================================================================
+=================================================================
 
 Business decisions 
 Using this page, management can 
@@ -49,14 +49,13 @@ Using this page, management can
 -Tighten approval rules for high DTI customers 
 - Change interest rate strategy
 - ALert collection team early and to investigate the risky regions
-========================================================================================
+===================================================================
 
 Insights 
 - Even if loan applications increase it doesn't always mean business growth
 - If the recovery amount does not grow porportionally and bad loan percentage increases then the bank is actuallt accumulating future losses.
 
-=======================================================================================
-
+===================================================================
 
 
 
